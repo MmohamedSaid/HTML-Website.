@@ -513,7 +513,7 @@ outline: none;
     }
 
     #home .header-content h1 {
-        font-size: 50px;
+        font-size: 50px;  
     }
 
     #about .about-content, 
@@ -566,8 +566,8 @@ outline: none;
  
 #skills .skills-content .row, 
 #services .row,
- #portfolio .row, 
- #Tutorials .row {
+#portfolio .row, 
+#Tutorials .row {
     grid-template-columns: 1fr;
 }
 
